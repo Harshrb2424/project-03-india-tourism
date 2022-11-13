@@ -1,0 +1,362 @@
+[
+  {"code": "AP", "is":"state", "name": "Andhra Pradesh",
+  "imageURL":"https://www.scrolldroll.com/wp-content/uploads/2022/03/Visakhapatnam_places-to-visit-in-Andhra-Pradesh-scaled.jpg",
+  "population": "49,577,103",
+  "cities": [
+    {"name": "Visakhapatnam", "population":"1,730,320", "imageURL":"https://cdn.theculturetrip.com/wp-content/uploads/2015/11/eshwar-4uedrhp2cwk-unsplash.jpg" },
+    {"name": "Vijayawada", "population":"1,034,358", "imageURL":"https://cdn1.goibibo.com/voy_ing/t_fs/krishna-vijayawada-148666321209o.jpeg" },
+    {"name": "Guntur", "population":"647,508", "imageURL":"https://i.ytimg.com/vi/2pp6KYUkV58/maxresdefault.jpg" },
+    {"name": "Nellore", "population":"499,575", "imageURL":"https://feeds.abplive.com/onecms/images/uploaded-images/2022/09/05/233d32ad129990d4c583c6db55ea5e1775bf3.jpg" },
+    {"name": "Kurnoo", "population":"430,214", "imageURL":"https://i.ytimg.com/vi/8pBHM9hdyWY/maxresdefault.jpg" },
+    {"name": "Kadapa", "population":"344,893", "imageURL":"" },
+    {"name": "Rajahmundry", "population":"341,831", "imageURL":"" },
+    {"name": "Kakinada", "population":"312,538", "imageURL":"" },
+    {"name": "Anantapur", "population":"261,004", "imageURL":"" },
+    {"name": "Vijayanagaram", "population":"228,025", "imageURL":"" },
+    {"name": "Tenali", "population":"225,982", "imageURL":"" },
+    {"name": "Ongole", "population":"204,746", "imageURL":"" },
+    {"name": "Eluru", "population":"203,780", "imageURL":"" },
+    {"name": "Nandyal", "population":"200,516", "imageURL":"" },
+    {"name": "Chittoor", "population":"189,332", "imageURL":"" },
+    {"name": "Machilipatnam", "population":"169,892", "imageURL":"" },
+    {"name": "Adoni", "population":"166,537", "imageURL":"" },
+    {"name": "Proddatur", "population":"163,600", "imageURL":"" },
+    {"name": "Hindupur", "population":"151,835", "imageURL":"" },
+    {"name": "Bhimavaram", "population":"142,280", "imageURL":"" },
+    {"name": "Madanapalle", "population":"135,669", "imageURL":"" },
+    {"name": "Guntakal", "population":"126,270", "imageURL":"" },
+    {"name": "Srikakulam", "population":"125,939", "imageURL":"" },
+    {"name": "Dharmavaram", "population":"121,874", "imageURL":"" },
+    {"name": "Gudivada", "population":"118,167", "imageURL":"" },
+    {"name": "Narasaraopet", "population":"116,250", "imageURL":"https://upload.wikimedia.org/wikipedia/commons/8/86/Narasaraopet_Town_areal_view_at_Mallamma_center.jpg" },
+    {"name": "Tadipatri", "population":"108,171", "imageURL":"https://upload.wikimedia.org/wikipedia/commons/2/24/Tadipatri-Chintalaraya-Swami-Temple.jpg" },
+    {"name": "Kavali", "population":"104,000", "imageURL":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Kavali%2C_Lipni%C5%A1ka%C5%ADski_sie%C4%BAsaviet_%2801%29.jpg" },
+    {"name": "Tadepalligudem", "population":"103,906", "imageURL":"https://www.merahoardings.com/wp-content/uploads/2015/10/Elluru-J.k.Palace-hotel-30X20.jpg" },
+    {"name": "Amaravati", "population":"103,000", "imageURL":"https://www.dailypioneer.com/uploads/2022/story/images/big/no-ambiguity--amaravati-is-the-andhra-capital-2022-01-01.jpg" }
+  ]},
+{"code": "AR", "is":"state", "name": "Arunachal Pradesh",
+"imageURL":"https://i.ytimg.com/vi/JYTxElXwmY0/maxresdefault.jpg",
+"population": "1,383,727",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "AS", "is":"state", "name": "Assam",
+"imageURL":"https://gos3.ibcdn.com/india-assam-14839497135o.jpeg",
+"population": "31,205,576",
+"cities": [
+  {"name": "Guwahati", "population":"957,352", "imageURL":"" },
+  {"name": "Silchar", "population":"229,136", "imageURL":"" },
+  {"name": "Dibrugarh", "population":"154,296", "imageURL":"" },
+  {"name": "Jorhat", "population":"153,889", "imageURL":"" },
+  {"name": "Nagaon", "population":"148,496", "imageURL":"" },
+  {"name": "Bongaigaon", "population":"139,650", "imageURL":"" },
+  {"name": "Tinsukia", "population":"126,389", "imageURL":"" },
+  {"name": "Tezpur", "population":"102,505", "imageURL":"" }
+  ]},
+{"code": "BR", "is":"state", "name": "Bihar",
+"imageURL":"https://www.fabhotels.com/blog/wp-content/uploads/2019/12/Mahabodhi-Temple.jpg",
+"population": "104,099,452",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "CG", "is":"state", "name": "Chhattisgarh",
+"imageURL":"https://images.thrillophilia.com/image/upload/s--AHL9w2vh--/c_fill,g_center,h_642,q_auto,w_1280/f_auto,fl_strip_profile/v1/images/photos/000/103/317/original/1479391377_chhattisgarh-705.jpeg.jpg",
+"population": "1,055,450",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "GA", "is":"state", "name": "Goa",
+"imageURL":"https://travelbizmonitor.com/wp-content/uploads/2022/04/india-3882103_1280-e1589188865548-1280x720-1.jpg",
+"population": "1,458,545",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "GJ", "is":"state", "name": "Gujarat",
+"imageURL":"https://www.gujarattourism.com/content/dam/gujrattourism/images/home_page/SOU.jpg",
+"population": "60,439,692",
+"cities": [
+  {"name": "Ahmedabad", "population":"5,570,585", "imageURL":"https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/04/11/811584-ahmedabad-041119.jpg" },
+  {"name": "Surat", "population":"4,467,797", "imageURL":"https://upload.wikimedia.org/wikipedia/commons/4/47/Bharthana_Althan_area.jpg" },
+  {"name": "Vadodara", "population":"1,670,806", "imageURL":"https://assets-news.housing.com/news/wp-content/uploads/2020/12/16191249/Vadodara%E2%80%99s-lavish-Lakshmi-Vilas-Palace-could-be-worth-over-Rs-24000-crores-FB-1200x700-compressed.jpg" },
+  {"name": "Rajkot", "population":"1,286,678", "imageURL":"https://cdn1.goibibo.com/voy_ing/t_fs/gujarat-rajkot-148824779352o.jpeg" },
+  {"name": "Bhavnagar", "population":"593,368", "imageURL":"https://res.cloudinary.com/enchanting/w_1600,h_700,c_fill,f_auto,q_70/artemis-mdm/places/b727f6c1-d7a2-46d1-8982-d8d774fa0377.jpg" },
+  {"name": "Jamnagar", "population":"479,920", "imageURL":"https://www.gujarattourism.com/content/dam/gujrattourism/images/flora--fauna/ranmal-lake/Ranmal-Lake-Thumbnail.jpg" },
+  {"name": "Junagadh", "population":"319,462", "imageURL":"https://www.gujarattourism.com/content/dam/gujrattourism/images/june/Mahabat-Maqbara-.jpg" },
+  {"name": "Gandhidham", "population":"248,705", "imageURL":"https://static.toiimg.com/thumb/msid-68159682,width-1280,height-720,resizemode-4/.jpg" },
+  {"name": "Nadiad", "population":"218,095", "imageURL":"https://media-cdn.tripadvisor.com/media/photo-c/1280x250/12/2a/b1/09/photo0jpg.jpg" },
+  {"name": "Gandhinagar", "population":"206,167", "imageURL":"https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/07/13/984946-958298-gandhinagar-02.jpg" },
+  {"name": "Anand", "population":"198,282", "imageURL":"https://upload.wikimedia.org/wikipedia/commons/c/c3/Amul_Plant_at_Anand.jpg" },
+  {"name": "Morbi", "population":"194,947", "imageURL":"https://morbitiles.org/wp-content/uploads/aerial_view_morbi-1-1200x720.jpeg" },
+  {"name": "Mehsana", "population":"184,991", "imageURL":"https://upload.wikimedia.org/wikipedia/commons/d/df/Rajmahal_Mehsana_Gujarat_India.jpg" },
+  {"name": "Surendranagar Dudhrej", "population":"177,851", "imageURL":"https://content3.jdmagicbox.com/comp/surendra_nagar-gujarat/f2/9999p2752.2752.220223142545.v9f2/catalogue/krishna-cafe-and-restaurant-dudhrej-surendra-nagar-gujarat-vvmnuewgko.jpg" }
+  ]},
+{"code": "HR", "is":"state", "name": "Haryana",
+"imageURL":"https://www.adotrip.com/public/images/state/master_images/5f1959b56ea1a-Haryana_Attractions.jpg",
+"population": "25,351,462",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "HP", "is":"state", "name": "Himachal Pradesh",
+"imageURL":"https://www.businessupturn.com/wp-content/uploads/2020/08/Himachal.jpg",
+"population": "6,864,602",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "JH", "is":"state", "name": "Jharkhand",
+"imageURL":"https://static.toiimg.com/photo/msid-86152665,width-96,height-65.cms",
+"population": "32,988,134",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "KA", "is":"state", "name": "Karnataka",
+"imageURL":"https://www.fabhotels.com/blog/wp-content/uploads/2019/10/Karnataka-Tourism_600-1280x720.jpg",
+"population": "61,095,297",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "KL", "is":"state", "name": "Kerala",
+"imageURL":"https://www.financialexpress.com/wp-content/uploads/2022/08/Kerala-Tourism-01.jpg",
+"population": "33,406,061",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "MP", "is":"state", "name": "Madhya Pradesh",
+"imageURL":"https://cdn.budgetyourtrip.com/images/photos/headerphotos/large/india_madhyapradesh.jpg",
+"population": "72,626,809",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "MH", "is":"state", "name": "Maharashtra",
+"imageURL":"https://static.toiimg.com/photo/78427300.cms",
+"population": "112,374,333",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "MN", "is":"state", "name": "Manipur",
+"imageURL":"https://c.ndtvimg.com/2022-02/or0q48l8_imphal-manipur_625x300_02_February_22.jpg?im=Resize=(1230,900)",
+"population": "2,570,390",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "ML", "is":"state", "name": "Meghalaya",
+"imageURL":"https://images.hindustantimes.com/img/2021/12/08/1600x900/nvr-endng-anupam-EUwzrxkJAAY-unsplash_1638957825888_1638957851669.jpg",
+"population": "2,966,889",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "MZ", "is":"state", "name": "Mizoram",
+"imageURL":"https://i.cdn.newsbytesapp.com/images/l55120220728183644.jpeg",
+"population": "1,097,206",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "NL", "is":"state", "name": "Nagaland",
+"imageURL":"https://upload.wikimedia.org/wikipedia/commons/f/ff/Way_o_Kohima%2CNagaland_India.jpg",
+"population": "1,978,502",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "OD", "is":"state", "name": "Odisha",
+"imageURL":"https://www.adotrip.com/public/images/state/master_images/5eb0292ec7f37-Odisha_Attractions.jpg",
+"population": "41,974,219",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "PB", "is":"state", "name": "Punjab",
+"imageURL":"https://cdn.britannica.com/53/176353-050-5B854179/Harmandir-Sahib-Amritsar-Punjab-India.jpg",
+"population": "27,743,338",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "RJ", "is":"state", "name": "Rajasthan",
+"imageURL":"https://static.toiimg.com/photo/93105943.cms",
+"population": "68,548,437",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "SK", "is":"state", "name": "Sikkim",
+"imageURL":"https://gos3.ibcdn.com/india-sikkim-147791426975o.jpeg",
+"population": "610,577",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "TN", "is":"state", "name": "Tamil Nadu",
+"imageURL":"https://cdn.britannica.com/12/100812-050-27483D5E/Mamallapuram-Shore-Temple-Chennai-India-Tamil-Nadu.jpg",
+"population": "72,147,030",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "TS", "is":"state", "name": "Telangana",
+"imageURL":"https://www.thenewsminute.com/sites/default/files/High-Court-Of-Telangana%20%281%29_0.jpg",
+"population": "35,003,674",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "TR", "is":"state", "name": "Tripura",
+"imageURL":"https://deih43ym53wif.cloudfront.net/agartala-india-tripura-shutterstock_780182554_5eb6e7e433.jpeg",
+"population": "3,673,917",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "UP", "is":"state", "name": "Uttar Pradesh",
+"imageURL":"https://cdn.britannica.com/22/124522-050-D8C3C313/pilgrims-Varanasi-Ganges-River-India-Uttar-Pradesh.jpg",
+"population": "199,812,341",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "UK", "is":"state", "name": "Uttarakhand",
+"imageURL":"https://deih43ym53wif.cloudfront.net/Swargarohini-trek-uttarakhand-blooming-valley-this-chakratirth-india-flowers-shutterstock_1687487230.jpg_2308a61b17.jpg",
+"population": "10,086,292",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "WB", "is":"state", "name": "West Bengal",
+"imageURL":"https://res.cloudinary.com/kmadmin/image/upload/v1556099567/kiomoi/west_bengal/West-bengal-.jpg",
+"population": "91,276,115",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "AN", "is":"Union territories", "name": "Andaman and Nicobar Islands",
+"imageURL":"https://i0.wp.com/www.indianglimpse.in/wp-content/uploads/2022/08/popular-tourist-destinations-in-andaman.jpg",
+"population": "380,581",
+"cities": [
+  {"name": "Port Blair", "population":"140,572", "imageURL":"" }
+  ]},
+{"code": "CH", "is":"Union territories", "name": "Chandigarh",
+"imageURL":"https://content.r9cdn.net/rimg/dimg/32/bf/ee13ce90-city-14028-166abc06c57.jpg?width=1366&height=768&xhint=1864&yhint=1503&crop=true",
+"population": "25,545,198",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "DD", "is":"Union territories", "name": "Dadra and Nagar Haveli and Daman and Diu",
+"imageURL":"http://www.tourismdddnh.in/wp-content/uploads/2020/08/Van-Ganga-Lake-Gardem-Dadra-option-1.jpg",
+"population": "585,764",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "DL", "is":"Union territories", "name": "Delhi",
+"imageURL":"https://nedbuzz.in/wp-content/uploads/2020/12/vbk-central-vista-.jpg",
+"population": "16,787,941",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "JK", "is":"Union territories", "name": "Jammu and Kashmir",
+"imageURL":"https://www.tripexperienceblog.com/wp-content/uploads/2018/04/kashmir-featured.jpg",
+"population": "12,267,032",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "LA", "is":"Union territories", "name": "Ladakh",
+"imageURL":"https://etimg.etb2bimg.com/photo/77779116.cms",
+"population": "274,000",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "LD", "is":"Union territories", "name": "Lakshadweep",
+"imageURL":"https://hhwt-images-upload.s3-ap-southeast-1.amazonaws.com/res/hhwt/image/upload/lakshadweep_qobdl5/1522308529.jpg",
+"population": "64,473",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]},
+{"code": "PY", "is":"Union territories", "name": "Puducherry",
+"imageURL":"https://www.deccanherald.com/sites/dh/files/article_images/2020/05/19/Puducherry_beach-892842368-1526231359.jpg",
+"population": "1,247,953",
+"cities": [
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" },
+  {"name": "", "population":"", "imageURL":"" }
+  ]}]

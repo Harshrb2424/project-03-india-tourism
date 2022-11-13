@@ -1,0 +1,55 @@
+<%- include("partials/header") %>
+
+<body>
+
+  <div class="nav">
+    <a href="#population"> population </a>
+    <a href="#name"> name </a>
+    <a href="#footer"> footer </a>
+  </div>
+
+
+ <div class="hub">
+   <div class="stateName">
+     <h1><%= indData[0].name %></h1>
+   </div>
+     <div class="grad"></div>
+
+   <div class="BG">
+     <img src="<%= indData[0].imageURL %>" alt="BG" />
+     <!-- <img src="./assets/TJ-BG.png" alt="" /> -->
+   </div>
+ </div>
+
+ <div class="time population" id="population">
+   <h3>Population</h3>
+   <h6><%= indData[0].population %></h6>
+ </div>
+
+<div class="name" id="name">
+ <h1>Cities</h1>
+</div>
+
+ <div class="explore">
+  <% indData[0].cities.forEach(element => { %>
+      <!-- <%= element.name %> -->
+      <div class="container">
+       <img src="<%= element.imageURL %>" alt="<%= element.name %>-img" class="image">
+       <!-- <a href="/<%= element.name %>"> -->
+       <div class="overlay">
+           <div class="state">
+            <h1><%= element.name %></h1>
+            Population: <%= element.population %>
+           </div>
+         </div>
+       </a>
+     </div>
+  <% }) %>
+ </div>
+
+
+ <%- include("partials/script") %>
+
+</body>
+
+<%- include("partials/footer") %>
